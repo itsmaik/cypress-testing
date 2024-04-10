@@ -22,7 +22,10 @@
   },
   "homepage": "https://github.com/itsmaik/cypress-testing#readme",
   "devDependencies": {
+    "@eslint/js": "^9.0.0",
     "cypress": "^13.7.2",
-    "eslint-plugin-cypress": "^2.15.1"
+    "eslint": "^9.0.0",
+    "eslint-plugin-cypress": "^2.15.1",
+    "globals": "^15.0.0"
   }
 }
