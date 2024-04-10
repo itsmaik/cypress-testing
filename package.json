@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/itsmaik/cypress-testing/issues"
   },
-  "homepage": "https://github.com/itsmaik/cypress-testing#readme"
+  "homepage": "https://github.com/itsmaik/cypress-testing#readme",
+  "devDependencies": {
+    "cypress": "^13.7.2",
+    "eslint-plugin-cypress": "^2.15.1"
+  }
 }
